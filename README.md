@@ -1,3 +1,3 @@
 # hello-world
-first repository
+first 
 hi this is my first repo on my git journey
